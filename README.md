@@ -17,8 +17,8 @@ Suburbia is a skate-themed web application built with Next.js, Tailwind CSS, and
 ### 🛠️ Installation
 
 ```bash
-git clone https://github.com/your-username/suburbia.git
-cd suburbia
+git clone https://github.com/your-username/skt-board.git
+cd skt-board
 npm install
 ```
 
@@ -62,8 +62,8 @@ Suburbia é uma aplicação web com tema de skate desenvolvida em Next.js, Tailw
 ### 🛠️ Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/suburbia.git
-cd suburbia
+git clone https://github.com/seu-usuario/skt-board.git
+cd skt-board
 npm install
 ```
 
